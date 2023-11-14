@@ -1,9 +1,10 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0moe-bE8JbyFCMFeoKLg1LAgttRUHiofDw&usqp=CAU))]
 <h1 align="center">Hi 👋, I'm Debesh Kumar Patel.</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">I am a passionate Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshkumar-dk&label=Profile%20views&color=80ff00&style=plastic" alt="debeshkumar-dk" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects.**
+- 🔭 I’m currently working on **Frontend React Based Projects.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 

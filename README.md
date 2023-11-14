@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0moe-bE8JbyFCMFeoKLg1LAgttRUHiofDw&usqp=CAU))]
 <h1 align="center">Hi 👋, I'm Debesh Kumar Patel.</h1>
 <h3 align="center">I am a passionate Web Developer.</h3>
 

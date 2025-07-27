@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debesh Kumar Patel.</h1>
-<h3 align="center">Full Stack Web Developer · Building Smart Web Solutions with AI</h3>
+<h3 align="center">Full Stack Web Developer · Enhancing Web Applications with AI-Powered Integrations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshkumar-dk&label=Profile%20views&color=80ff00&style=plastic" alt="debeshkumar-dk" /> </p>
 

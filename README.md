@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debesh Kumar Patel.</h1>
-<h3 align="center">I am a passionate Web Developer.</h3>
+<h3 align="center">I am a passionate Full Stack Web Developer.</h3>
+<h3 align="center">Building Smart Solutions with AI Integration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshkumar-dk&label=Profile%20views&color=80ff00&style=plastic" alt="debeshkumar-dk" /> </p>
 
 # 💫 About Me:
-🔭 Currently diving deep into Full Stack Web Development.<br><br>🌱 Exploring the world of Artificial Intelligence and Machine Learning.<br><br>💬 Open to discussing anything related to Web Development, APIs, and scalable project architecture.<br><br>📫 Reach me at : patel.debeshkumarjobs@gmail.com<br><br>⚡ Fun fact : I'm a big fan of Sci-Fi movies — they fuel my passion for futuristic tech!.
+🔭 Currently diving deep into Full Stack Web Development.<br><br>🌱 Exploring the world of Artificial Intelligence and Machine Learning.<br><br>💬 Open to discussing anything related to Web Development, APIs, and scalable project architecture.<br><br>📫 Reach me at : patel.debeshkumarjobs@gmail.com<br><br>⚡ Fun fact : I'm a big fan of Sci-Fi movies — they fuel my passion for futuristic tech!
 
 
 ## 🌐 Socials:
